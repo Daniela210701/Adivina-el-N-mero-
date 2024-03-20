@@ -1,0 +1,27 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+body {
+        background-image: url('./asset/img/outer-space-stars-galaxies-planets-background-images.jpg');
+        background-position: center; 
+ 
+}
+
+h1{
+    text-align: center;
+    color: white;
+
+}
+.container {
+    width: 50%;
+    margin: auto;
+    overflow: hidden;
+    border: solid black 3px;
+    padding: 5px;
+}
+p {
+    text-align: center;
+    background-color: black;
+
+}
